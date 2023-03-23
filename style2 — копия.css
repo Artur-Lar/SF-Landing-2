@@ -509,7 +509,7 @@
 }
 .list ol {
   counter-reset: myCounter;
-  background-image: url(/Landing/step3/image\ 6.1.jpg);
+  background-image: url(image\ 6.1.jpg);
   background-position-x: -100px;
   background-position-y: -100px;
   background-size: cover;
@@ -651,7 +651,7 @@
 .block2 {
   display: block;
   margin: auto;
-  background-image: url(/Landing/step3/image\ 5.1.jpg),
+  background-image: url(image\ 5.1.jpg),
     linear-gradient(
       180deg,
       rgba(24, 24, 24, 0.9) 3.47%,
@@ -913,7 +913,7 @@
   position: relative;
 }
 .block5 {
-  background: url(/Landing/step3/image\ 7.2.jpg),
+  background: url(image\ 7.2.jpg),
     linear-gradient(
       180deg,
       rgba(24, 24, 24, 0.9) 3.47%,
@@ -1249,6 +1249,9 @@
     display: none;
   }
   .footer {
+    display: none;
+  }
+  .photo-repair-button {
     display: none;
   }
 }
